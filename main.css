@@ -2,6 +2,7 @@
 
 :root {
     --theme-background-image: url(https://i.imgur.com/BydztHN.png);
+    --theme-background-image-position: left;
     --home-icon-image: url(https://i.imgur.com/vyO38VL.png);
     --main-theme-color: rgb(67, 181, 129);
     --theme-transparency: rgba(0, 0, 0, 0.8);
@@ -24,7 +25,7 @@
     --small-user-popout-background-image-position: center;
     --big-user-popout-background-image: transparent;
     --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
-    --big-user-popout-background-image-position: left;
+    --big-user-popout-background-image-position: center;
     --code-markup-background-color: rgba(0, 0, 0, 0.6);
     --code-markup-border: 1px solid transparent;
     --message-box-transparency: rgba(0, 0, 0, 0.6);
