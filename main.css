@@ -1,12 +1,12 @@
 @import url(https://cdocc.github.io/maintheme/build/v3/naat.v3.css);
 
 :root {
-    --theme-background-image: url(https://i.imgur.com/BydztHN.png);
+    --theme-background-image: url(https://i.imgur.com/DNIetFe.png);
     --home-icon-image: url(https://i.imgur.com/vyO38VL.png);
     --main-theme-color: rgb(67, 181, 129);
-    --theme-transparency: rgba(0, 0, 0, 0.8);
+    --theme-transparency: rgba(0, 0, 0, 0.692);
     --home-icon-image-position: right center;
-    --home-icon-image-zoom: 170%;
+    --home-icon-image-zoom: 100%;
     --server-listing-width: 64px;
     --font-size: 100%;
     --mention-color: rgba(250, 166, 26, 0.05);
