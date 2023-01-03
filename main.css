@@ -24,7 +24,7 @@
     --small-user-popout-background-image-position: center;
     --big-user-popout-background-image: transparent;
     --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
-    --big-user-popout-background-image-position: center;
+    --big-user-popout-background-image-position: left;
     --code-markup-background-color: rgba(0, 0, 0, 0.6);
     --code-markup-border: 1px solid transparent;
     --message-box-transparency: rgba(0, 0, 0, 0.6);
